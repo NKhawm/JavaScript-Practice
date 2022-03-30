@@ -1,0 +1,28 @@
+body{
+    background-color: khaki;
+    
+    
+
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+}
+p{
+    text-align:left ;
+    font-size: 28px;
+}
+input{
+    width:100px;
+    height: 30px;
+    font-size: 25px;
+    text-align: center;
+    background: none;
+}
+button{
+    padding:10px;
+    font-size: 16px;
+}
